@@ -1,0 +1,29 @@
+货物
+状态、重量、快递单号、坐标、快递单号
+
+运货人
+
+
+货车
+驾驶编号
+保养、
+-----------------
+abstra class vehicle   
+- num type  agent
++transport
+
+interface GPS
++getPosition
+class equipment
+
+interface  upkeep 
++upkeepVehicle
+
+class truck  extends vehicle  implements upkeep
+使用GPS设备
+
+class expressage
+-expressID、weight
++beforTransport
++duringTransport
++afterArrive

@@ -1,0 +1,22 @@
+turnOn11
+turnOff11
+computer11
+{
+	
+	usb插槽  数组
+	installUSB（安装usb设备）
+	turnOn11
+ 	turnOff11
+}
+接口，--》实现和使用
+usb【4个】
+interface  usb11
+{
+  turnOn11();
+  turnOff11();
+}
+都是usb设备
+设备类  equipment11 
+mouse11
+keyboard11
+microphone11

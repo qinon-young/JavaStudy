@@ -1,0 +1,10 @@
+
+银行类Bank11（ static name11   
+方法
+开户openAccount
+存款deposit11、取款withdrawals11(password,sum)、
+工具类欢迎welcome11、sayGoodBay
+提示noticeErrorPass、
+noticeErrorBalance）
+
+用户类User11（name11、password11、余额static balance11）

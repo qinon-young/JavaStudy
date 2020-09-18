@@ -1,0 +1,8 @@
+记者，程序员，司机
+person ：name age sex  职业 profession
+工龄workingAge 驾龄drivingAge 爱好hobby
+自己介绍：introduce
+
+记者：我是记者李大吹，我的爱好是偷拍，我的年龄是34，我是一个男狗仔
+程序员：我叫马化腾，我今年25岁，是一个男程序员，我工作3年
+老司机：我是男司机老王，我今年42岁，我的驾龄有22年
